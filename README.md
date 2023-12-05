@@ -1,6 +1,6 @@
 # falci
 
-A new Flutter project.
+Fortune telling Flutter app
 
 ## Getting Started
 
